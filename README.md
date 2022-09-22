@@ -1,6 +1,6 @@
 ## 🔧 Projeto Send Mail - Enviar e-mail usando SMTP
 
-Esse foi meu primeiro projeto utilizando a biblioteca Mailersend, esse tipo de funcionalidade é muito aplicada em soluções Front-end e com toda certeza será um conhecimento que eu aplicarei em diversos projetos futuros.
+Esse foi meu primeiro projeto utilizando a biblioteca PHPMailer, esse tipo de funcionalidade é muito aplicada em soluções Front-end e com toda certeza será um conhecimento que eu aplicarei em diversos projetos futuros.
 
 ## 📁 Acesso ao projeto
 
